@@ -3,3 +3,5 @@ LSP RESOLUSI
 - Desain database
 - Desain UI
 - Coding with Laravel
+- Uji Coba setiap modul
+- Pastikan hubungan masing-masing modul
