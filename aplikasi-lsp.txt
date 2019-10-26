@@ -1,10 +1,16 @@
 LSP RESOLUSI
 - Bisnis proses
+  * buat dalam modul-nodul terpisah
+  * pastikan setiap modul tidak overlap
 - Desain database
   * setting database agar disesuaikan
   * hati-hati dengan penamaan yang tumpang tindih
 - Desain UI
   * desain ui dibuat berjenjang
+    ^ pelajari bootstrap 4 utk membuat tab
+    ^ jangan lupa membuat tombol-tombol yang sesuai
 - Coding with Laravel
 - Uji Coba setiap modul
 - Skedul pelaksanaan nanti saja kalau desain database sudah selesai
+- Buat jadwal pelaksanaan
+- Rencanakan dengan cermat
