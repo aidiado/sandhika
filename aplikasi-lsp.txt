@@ -2,6 +2,7 @@ LSP RESOLUSI
 - Bisnis proses
 - Desain database
 - Desain UI
+  * desain ui dibuat berjenjang
 - Coding with Laravel
 - Uji Coba setiap modul
 - Buat jadwal pelaksanaan
