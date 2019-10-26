@@ -2,4 +2,8 @@ DATABASE
 - Analisis database SKKNI
 - Nama database sertifikasi
 - Rencanakan tabel-tabel yang akan dibuat
+  * buat tabel sk-menteri
+  * buat tabel unit
+  * buat tabel elemen
+  * buat tabel kuk
 - Buat hubungan antar table
