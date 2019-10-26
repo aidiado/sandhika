@@ -1,8 +1,10 @@
 LSP RESOLUSI
 - Bisnis proses
 - Desain database
+  * setting database agar disesuaikan
+  * hati-hati dengan penamaan yang tumpang tindih
 - Desain UI
   * desain ui dibuat berjenjang
 - Coding with Laravel
 - Uji Coba setiap modul
-- Buat jadwal pelaksanaan
+- Skedul pelaksanaan nanti saja kalau desain database sudah selesai
