@@ -1,0 +1,5 @@
+LSP RESOLUSI
+- Bisnis proses
+- Desain database
+- Desain UI
+- Coding with Laravel
