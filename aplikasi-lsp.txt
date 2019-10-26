@@ -3,6 +3,7 @@ LSP RESOLUSI
   * buat dalam modul-nodul terpisah
   * pastikan setiap modul tidak overlap
 - Desain database
+  * Buat database seoptimal mungkin
 - Desain UI
   * desain ui dibuat berjenjang
     ^ pelajari bootstrap 4 utk membuat tab
